@@ -1,0 +1,22 @@
+{
+  "name": "redfluencer_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^5.0.2",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "firebase": "^9.8.4",
+    "firebase-admin": "^11.0.0",
+    "uuid": "^8.3.2"
+  }
+}
